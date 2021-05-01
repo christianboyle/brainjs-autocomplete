@@ -1,5 +1,5 @@
 # brainjs-autocomplete
-A basic implementation of brain.js
+A basic implementation of [brain.js](https://github.com/BrainJS/brain.js)
 
 # get started
 ```
